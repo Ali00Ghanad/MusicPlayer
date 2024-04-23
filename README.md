@@ -6,7 +6,7 @@
 - اجرای آهنگ
 - ایجاد دکمه های مورد نیاز موزیک پلیر
 # Music Player
-A practice project using Html ,css, JavaScript with responsive flexible design .<br><br>
+A practice project using Html ,css, JavaScript with responsive design .<br><br>
 Things I learned:
 - Managing the playlist
 - Playing the song
